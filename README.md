@@ -1,2 +1,2 @@
-# Resonix
+# Cue
 Modular Audio toolkit for game engines in SDL2
